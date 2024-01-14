@@ -1,0 +1,10 @@
+yfinance
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+icecream
+openpyxl
+xgboost
+streamlit
